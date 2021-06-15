@@ -1,11 +1,97 @@
 body {
-  background-color: red;
+  background-color: orange;
 }
 
-h1 {
- color: : 
+h1 { 
  text-size: 80%; 
  text-align: center; 
  border: 2px double; 
  border-color: B39C4D; 
 }
+
+table, th, td {
+  border: 3px solid black;
+}
+ 
+h3 {
+float: right; 
+position: absolute;
+right: 125px;
+  top: 30%;
+}
+
+
+table {
+    margin: 5px;
+  float: right;
+  position: absolute;
+  right: 20px;
+  top: 50%;
+}
+
+img {
+  width: 350px; 
+  border: 1px solid #ddd; 
+  border-radius: 4px;
+}
+  
+h4 {
+  text-indent: 115px
+}
+
+h5 {
+  text-indent: 65px;
+}
+
+h6{
+float: right; 
+position: absolute;
+right: 40px;
+  top: 200%;
+}
+
+.smaller-image {
+    margin: 15px;
+  float: right;
+  position: absolute;
+  right: 20px;
+  top: 220%;
+}
+
+h7{
+float: right; 
+position: absolute;
+right: 40px;
+  top: 310%;
+}
+
+.top-goalscorer {
+    margin: 15px;
+  float: right;
+  position: absolute;
+  right: 20px;
+  top: 330%;
+}
+  
+
+
+
+  
+
+
+
+
+  
+  
+
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
