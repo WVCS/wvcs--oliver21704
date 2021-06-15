@@ -17,7 +17,7 @@ h3 {
 float: right; 
 position: absolute;
 right: 125px;
-  top: 30%;
+  top: 10%;
 }
 
 
@@ -26,7 +26,7 @@ table {
   float: right;
   position: absolute;
   right: 20px;
-  top: 50%;
+  top: 20%;
 }
 
 img {
@@ -47,7 +47,7 @@ h6{
 float: right; 
 position: absolute;
 right: 40px;
-  top: 200%;
+  top: 80%;
 }
 
 .smaller-image {
@@ -55,14 +55,14 @@ right: 40px;
   float: right;
   position: absolute;
   right: 20px;
-  top: 220%;
+  top: 100%;
 }
 
 h7{
 float: right; 
 position: absolute;
 right: 40px;
-  top: 310%;
+  top: 150%;
 }
 
 .top-goalscorer {
@@ -70,7 +70,7 @@ right: 40px;
   float: right;
   position: absolute;
   right: 20px;
-  top: 330%;
+  top: 170%;
 }
   
 
